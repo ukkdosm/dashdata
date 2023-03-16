@@ -2,6 +2,7 @@
 # !pip install streamlit geopandas pandas_geojson folium numpy panel pandas matplotlib jupyter_bokeh==3.0.5
 # pip install bokeh==2.4.0
 # Compress function
+/home/appuser/venv/bin/python -m pip install --upgrade pip
 import folium as fm
 from folium import plugins
 from pandas_geojson import read_geojson, filter_geojson
