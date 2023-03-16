@@ -7,8 +7,6 @@ Original file is located at
     https://colab.research.google.com/drive/1581ki8lGFHfOaQdxxyJu1da5FRHMXgQb
 """
 
-pip install geopandas==0.9.0 pandas_geojson==0.2.0 folium==0.12.1 numpy==1.19.5 panel==0.12.1
-
 """Compress function"""
 
 import folium as fm
@@ -102,9 +100,4 @@ select
 
 app2 = create_app2(sociodemo, geo_json, select)
 app2
-
-from google.colab import drive
-drive.mount('/content/drive')
-
-!pip freeze > '/content/drive/My Drive/Colab Notebooks/requirements.txt'
 
