@@ -7,7 +7,7 @@ Original file is located at
     https://colab.research.google.com/drive/1581ki8lGFHfOaQdxxyJu1da5FRHMXgQb
 """
 
-!pip install streamlit geopandas pandas_geojson folium numpy panel pandas matplotlib
+!pip install streamlit geopandas pandas_geojson folium numpy panel pandas matplotlib pip
 
 
 
