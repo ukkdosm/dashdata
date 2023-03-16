@@ -7,8 +7,8 @@ Original file is located at
     https://colab.research.google.com/drive/1581ki8lGFHfOaQdxxyJu1da5FRHMXgQb
 """
 
-!pip install geopandas -qq
-!pip install pandas_geojson -qq
+#!pip install geopandas -qq
+#!pip install pandas_geojson -qq
 
 """Compress function"""
 
